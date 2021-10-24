@@ -113,3 +113,5 @@ const btnDisminuir = (e) =>{
     pintarCarrito();
    
 }
+
+console.log("usando git");
